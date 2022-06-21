@@ -3,7 +3,6 @@ var num1 = parseInt(prompt('Number 1: '));
 var opr = prompt('operator: ');
 var num2 = parseInt(prompt('Number 2: '));
 
-var Message = 'Answer is';
 
 if (opr == '+')
 { 
