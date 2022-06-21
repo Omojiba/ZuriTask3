@@ -4,14 +4,19 @@ var num2 = parseInt(prompt('Number 2: '))
 
 if (opr == '+')
 { 
+    alert(num1 + num2);
     console.log(num1 + num2);
 }else if(opr == '-'){
 
     console.log(num1 - num2);
+    alert(Answer (num1 - num2))
 }else if(opr =='*'){
 
     console.log(num1 * num2);
+    alert(num1 * num2)
 }else if(opr == '/'){
 
     console.log(num1 / num2);
+    alert(num1 / num2)
+    al
 }
